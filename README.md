@@ -1,3 +1,3 @@
-# testingPush
+# This is my public testing space.
 
-I am trying to push something using the production gitlab to a free github. Did it work?
+This is the space for testing public repoisitories and stuff like that.
